@@ -1,0 +1,8 @@
+build/
+x64/
+x86/
+packages/
+Task1/
+gtests/
+*.user
+*.filter
